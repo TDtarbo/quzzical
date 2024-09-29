@@ -17,7 +17,7 @@ Welcome to the Quizzical App! Test your knowledge with our fun quizzes on variou
 
 ## Demo
 
-[Check out live Demo!](https://tdtarbo.github.io/quzzical/){:target="_blank"}
+<a href="https://tdtarbo.github.io/quzzical/" target="_blank">Check out live Demo!</a>
 
 
 ## Getting Started
