@@ -1,6 +1,6 @@
 # Quiz App
 
-[Imgur](https://i.imgur.com/yXMB83U.png)
+![Imgur](https://i.imgur.com/yXMB83U.png)
 
 Welcome to the Quizzical App! Test your knowledge with our fun quizzes on various topics, including Computers and Technology. Challenge yourself, learn, and have fun!
 
