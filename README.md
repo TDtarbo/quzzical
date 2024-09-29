@@ -1,6 +1,8 @@
 # Quiz App
 
-Welcome to the Quiz App! Test your knowledge with our fun quizzes on various topics, including Computers and Technology. Challenge yourself, learn, and have fun!
+[Imgur](https://i.imgur.com/yXMB83U.png)
+
+Welcome to the Quizzical App! Test your knowledge with our fun quizzes on various topics, including Computers and Technology. Challenge yourself, learn, and have fun!
 
 ## Features
 
@@ -15,7 +17,7 @@ Welcome to the Quiz App! Test your knowledge with our fun quizzes on various top
 
 ## Demo
 
-[Coming Soon!](https://your-demo-link-here.com)
+[Check out live Demo!](https://tdtarbo.github.io/quzzical/)
 
 ## Getting Started
 
@@ -24,13 +26,13 @@ Follow these steps to get the Quiz App up and running on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   git clone https://github.com/TDtarbo/quzzical.git
 
 
 2. Navigate to the project directory:
 
     ```bash
-    cd quiz-app
+    cd quizzical
 
 3. Install the required dependencies:
 
